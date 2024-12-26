@@ -1,0 +1,23 @@
+# Laptop-Analysis
+💻 The Laptop Analysis Dashboard reveals insights into sales, consumer preferences, and market trends. It highlights top brands, price variations, processor popularity, screen types, OS choices, and design trends via weight analysis. A showcase of Power BI skills, it optimizes strategies and enhances market understanding. 📊🚀
+
+Overall Sales Revenue
+The total revenue generated from laptops is ₹ 78,010,666.
+
+Laptop Specifications
+The highest GHz processor used in laptops is 2.5 GHz.
+The most common screen resolution is Full HD.
+The most common processor type is Core i7.
+
+Laptop Prices
+The average price of a laptop is ₹ 82,49K.
+The average price of a laptop with an IPS panel is ₹ 92,25K.
+The average price of a laptop with a Full HD screen is ₹ 121,50K.
+
+Laptop Companies
+The top 10 selling laptop companies are Dell, Lenovo, HP, Asus, Acer, MSI, Toshiba, Apple, Samsung, Mediacom, and Razer.
+Dell has the highest sales followed by Lenovo.
+Razer has the lowest sales.
+
+Laptop Operating Systems
+The most common operating system is Windows.
